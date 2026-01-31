@@ -1,0 +1,184 @@
+[
+  {
+    "name": "Democratic Club of Amelia Island (DCAI)",
+    "cat": "party",
+    "location": "",
+    "bullets": [
+      "DEC-affiliated Democratic club",
+      "Serves Amelia Island and Fernandina Beach",
+      "Local club for Democratic engagement"
+    ],
+    "keywords": "democratic club of amelia island dcai dec-affiliated serves amelia island fernandina beach",
+    "logo": "/static/images/democratic-club-of-amelia-island.jpg",
+    "website": "https://www.ameliadems.org/"
+  },
+  {
+    "name": "Disco Witch Brewing",
+    "cat": "biz",
+    "location": "Yulee",
+    "bullets": [
+      "\u003cspan class=\u0027fw-semibold\u0027\u003eFood:\u003c/span\u003e Bar food; also allows outside food",
+      "\u003cspan class=\u0027fw-semibold\u0027\u003eEnvironment:\u003c/span\u003e Taproom listed as LGBTQ+ friendly",
+      "\u003cspan class=\u0027fw-semibold\u0027\u003eLocation:\u003c/span\u003e 464073 State Road 200, Suite 7, Yulee, FL 32097"
+    ],
+    "keywords": "disco witch brewing yulee florida brewery bar food outside food allowed lgbtq friendly 464073 state road 200 suite 7 32097",
+    "logo": "/static/images/disco-witch-brewing.jpg",
+    "website": "https://discowitchbrewing.com/"
+  },
+  {
+    "name": "First Love Brewing",
+    "cat": "biz",
+    "location": "Fernandina Beach",
+    "bullets": [
+      "\u003cspan class=\u0027fw-semibold\u0027\u003eFood:\u003c/span\u003e Specialty pizzas + brewpub menu",
+      "\u003cspan class=\u0027fw-semibold\u0027\u003eEnvironment:\u003c/span\u003e Brewpub with seating (incl. outdoor seating noted on listings)",
+      "\u003cspan class=\u0027fw-semibold\u0027\u003eLocation:\u003c/span\u003e 22 South 8th Street, Suite 5, Fernandina Beach, FL 32034"
+    ],
+    "keywords": "first love brewing fernandina beach amelia island specialty pizzas craft beer brew pub outdoor seating 22 south 8th street suite 5 32034",
+    "logo": "/static/images/first-love-brewing.webp",
+    "website": "https://firstlovebrewing.com/"
+  },
+  {
+    "name": "Keep Nassau Beautiful",
+    "cat": "svc",
+    "location": "",
+    "bullets": [
+      "Environmental stewardship",
+      "Litter-prevention",
+      "Community cleanups and education"
+    ],
+    "keywords": "keep nassau beautiful environmental stewardship litter-prevention community cleanups education",
+    "logo": "/static/images/keep-nassau-beautiful.png",
+    "website": "https://keepnassaubeautiful.org/"
+  },
+  {
+    "name": "Nassau Community Voices Coalition",
+    "cat": "party",
+    "location": "",
+    "bullets": [
+      "Run by the county Democratic Executive Committee (DEC)",
+      "Community-focused engagement and coordination",
+      "Coordinates local participation and outreach"
+    ],
+    "keywords": "nassau community voices coalition run by county dec community-focused engagement coordination",
+    "logo": "/static/images/nassau-community-voices-coalition.png",
+    "website": "https://www.facebook.com/groups/nassaucommunityvoices"
+  },
+  {
+    "name": "Nassau County Democratic Black Caucus",
+    "cat": "party",
+    "location": "",
+    "bullets": [
+      "Democratic-aligned constituency caucus",
+      "Affiliated partner",
+      "Not directly run by the county party"
+    ],
+    "keywords": "nassau county democratic black caucus democratic-aligned constituency caucus affiliated partner not directly run by county party",
+    "logo": "/static/images/nassau-county-democratic-black-caucus.png",
+    "website": "https://www.dbcflorida.org/"
+  },
+  {
+    "name": "Nassau County Democratic Executive Committee (DEC)",
+    "cat": "party",
+    "location": "",
+    "bullets": [
+      "Governing body of the county Democratic Party",
+      "Oversees precinct structure",
+      "Internal governance and operations"
+    ],
+    "keywords": "nassau county democratic executive committee dec governing body precinct structure internal governance",
+    "logo": "/static/images/nassau-county-dec.png",
+    "website": "https://www.nassaudems.org/"
+  },
+  {
+    "name": "Nassau County Democratic Party",
+    "cat": "party",
+    "location": "",
+    "bullets": [
+      "Official county-level Democratic organization",
+      "Coordinates local party strategy",
+      "Coordinates local party activities"
+    ],
+    "keywords": "nassau county democratic party official county-level democratic organization local party strategy activities",
+    "logo": "/static/images/nassau-county-democrats.webp",
+    "website": "https://www.nassaudems.org/"
+  },
+  {
+    "name": "Northeast Florida Astronomical Society",
+    "cat": "svc",
+    "location": "",
+    "bullets": [
+      "Public astronomy education",
+      "Outreach events (including star parties)",
+      "Lectures and science programs"
+    ],
+    "keywords": "northeast florida astronomical society public astronomy education outreach star parties lectures science programs",
+    "logo": "/static/images/north-east-florida-astronomical-society.png",
+    "website": "https://www.facebook.com/groups/nefas/about"
+  },
+  {
+    "name": "Sierra Club",
+    "cat": "ind",
+    "location": "",
+    "bullets": [
+      "Environmental protection and climate advocacy",
+      "Policy engagement",
+      "Public education"
+    ],
+    "keywords": "sierra club environmental protection climate advocacy policy engagement public education",
+    "logo": "/static/images/nassau-county-sierra-club.jpg",
+    "website": "https://www.facebook.com/SierraClubNassauCounty"
+  },
+  {
+    "name": "Story \u0026 Song Bookstore Bistro",
+    "cat": "biz",
+    "location": "Fernandina Beach",
+    "bullets": [
+      "\u003cspan class=\u0027fw-semibold\u0027\u003eFood:\u003c/span\u003e Sweet treats/pastries + coffee; brunch/lunch options; wine and craft beer",
+      "\u003cspan class=\u0027fw-semibold\u0027\u003eEnvironment:\u003c/span\u003e Bookstore + arts/culture setting with bistro seating",
+      "\u003cspan class=\u0027fw-semibold\u0027\u003eLocation:\u003c/span\u003e 1430 Park Avenue, Fernandina Beach, FL 32034"
+    ],
+    "keywords": "story and song bookstore bistro fernandina beach sweet treats pastries coffee brunch lunch wine craft beer 1430 park avenue 32034",
+    "logo": "/static/images/story-and-song-bookstore-bistro.webp",
+    "website": "https://storyandsongarts.org/bistro/"
+  },
+  {
+    "name": "Take Stock in Children Nassau",
+    "cat": "svc",
+    "location": "",
+    "bullets": [
+      "Youth mentoring",
+      "Scholarship program",
+      "Education and long-term student success focus"
+    ],
+    "keywords": "take stock in children nassau youth mentoring scholarship program education long-term student success",
+    "logo": "/static/images/nassau-county-take-stock-in-children.png",
+    "website": "https://tsicnassau.org/"
+  },
+  {
+    "name": "Unified Nassau Florida",
+    "cat": "ind",
+    "location": "",
+    "bullets": [
+      "Nonpartisan, pro-democracy civic organizing",
+      "Issue advocacy",
+      "Civic participation"
+    ],
+    "keywords": "unified nassau florida nonpartisan pro-democracy civic organizing issue advocacy civic participation",
+    "logo": "/static/images/unified-nassau-florida.webp",
+    "website": "https://www.unifiednassauflorida.org/"
+  },
+  {
+    "name": "Westside Democrats of Nassau County",
+    "cat": "party",
+    "location": "",
+    "bullets": [
+      "Promotes democracy and democratic values in western Nassau County",
+      "Local organizing and outreach for Democratic engagement",
+      "Supports participation in elections and community civic life"
+    ],
+    "keywords": "westside democrats of nassau county florida promote democracy democratic values western nassau democratic engagement organizing outreach elections civic life",
+    "logo": "/static/images/nassau-county-westside-democrats.webp",
+    "website": "https://www.facebook.com/nassaudec"
+  }
+]
