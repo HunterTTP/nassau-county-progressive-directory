@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Nassau County Progressive Directory</title>
+    <title>Nassau Progressive Directory</title>
     <meta
       name="description"
       content="Single-page directory of Nassau County groups with dropdown filtering and dark-mode toggle."
@@ -16,25 +16,60 @@
   </head>
 
   <body class="bg-body">
-    <nav class="navbar bg-body border-bottom">
-      <div class="container" style="max-width: 980px">
-        <div class="d-flex align-items-center gap-3">
-          <button
-            class="navbar-toggler"
-            type="button"
-            data-bs-toggle="offcanvas"
-            data-bs-target="#navDrawer"
-            aria-controls="navDrawer"
-            aria-label="Open menu"
-          >
-            <span class="navbar-toggler-icon"></span>
-          </button>
-          <a class="navbar-brand fw-semibold" href="#"
-            >Nassau County Progressive Directory</a
-          >
+    <header class="sticky-top bg-body border-bottom">
+      <nav class="navbar bg-body">
+        <div class="container" style="max-width: 980px">
+          <div class="d-flex align-items-center gap-3">
+            <button
+              class="navbar-toggler"
+              type="button"
+              data-bs-toggle="offcanvas"
+              data-bs-target="#navDrawer"
+              aria-controls="navDrawer"
+              aria-label="Open menu"
+            >
+              <span class="navbar-toggler-icon"></span>
+            </button>
+            <a class="navbar-brand fw-semibold" href="#"
+              >Nassau Progressive Directory</a
+            >
+          </div>
+        </div>
+      </nav>
+
+      <div class="bg-body py-2">
+        <div class="container" style="max-width: 980px">
+          <div class="row g-2 align-items-end">
+            <div class="col-12 col-md-7">
+              <label class="form-label small text-secondary mb-1" for="search"
+                >Search</label
+              >
+              <div class="input-group">
+                <input
+                  id="search"
+                  class="form-control"
+                  type="search"
+                  placeholder="Search names and keywords"
+                />
+              </div>
+            </div>
+
+            <div class="col-12 col-md-5">
+              <label class="form-label small text-secondary mb-1" for="category"
+                >Category</label
+              >
+              <select id="category" class="form-select">
+                <option value="all">All categories</option>
+                <option value="party">Party Affiliated</option>
+                <option value="ind">Independent</option>
+                <option value="svc">Community Service &amp; Education</option>
+                <option value="biz">Businesses</option>
+              </select>
+            </div>
+          </div>
         </div>
       </div>
-    </nav>
+    </header>
 
     <div
       class="offcanvas offcanvas-start"
@@ -65,38 +100,7 @@
     </div>
 
     <div class="container py-1" style="max-width: 980px">
-      <h1 class="visually-hidden">Nassau County Progressive Directory</h1>
-
-      <div class="sticky-top bg-body mt-2 pt-2 pb-2">
-        <div class="row g-2 align-items-end">
-          <div class="col-12 col-md-7">
-            <label class="form-label small text-secondary mb-1" for="search"
-              >Search</label
-            >
-            <div class="input-group">
-              <input
-                id="search"
-                class="form-control"
-                type="search"
-                placeholder="Search names and keywords"
-              />
-            </div>
-          </div>
-
-          <div class="col-12 col-md-5">
-            <label class="form-label small text-secondary mb-1" for="category"
-              >Category</label
-            >
-            <select id="category" class="form-select">
-              <option value="all">All categories</option>
-              <option value="party">Party Affiliated</option>
-              <option value="ind">Independent</option>
-              <option value="svc">Community Service &amp; Education</option>
-              <option value="biz">Businesses</option>
-            </select>
-          </div>
-        </div>
-      </div>
+      <h1 class="visually-hidden">Nassau Progressive Directory</h1>
 
       <div id="noResults" class="alert alert-warning mt-3 d-none" role="status">
         No matches.
