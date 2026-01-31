@@ -20,7 +20,7 @@
   }
 
   // Data (loaded from static JSON)
-  const PLACEHOLDER_LOGO = "/static/images/placeholder.png";
+  const PLACEHOLDER_LOGO = "static/images/placeholder.png";
 
   let entries = [];
   let items = [];
@@ -31,7 +31,7 @@
 
   async function loadEntries() {
     try {
-      const res = await fetch("/static/js/entries.json");
+      const res = await fetch("static/js/entries.json");
       if (!res.ok) throw new Error(`HTTP ${res.status}`);
       entries = await res.json();
       renderList();
@@ -54,7 +54,7 @@
   }
 
   function entryToCard(e) {
-    const website = e.website || "/index.html";
+    const website = e.website || "index.html";
     const dataText = (e.keywords || `${e.name} ${e.bullets.join(" ")}`).toLowerCase();
 
     return `
