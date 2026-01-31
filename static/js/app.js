@@ -55,7 +55,8 @@
 
   function entryToCard(e) {
     const website = e.website || "index.html";
-    const dataText = (e.keywords || `${e.name} ${e.bullets.join(" ")}`).toLowerCase();
+    const summaryText = (e.summary || "").replace(/\s+/g, " ").trim();
+    const dataText = `${e.keywords || e.name} ${summaryText}`.toLowerCase();
 
     return `
         <article class="card shadow-sm group-item" data-cat="${escapeAttr(e.cat)}" data-text="${escapeAttr(dataText)}">
@@ -76,9 +77,9 @@
                 <h2 class="h6 mb-1">
                   <a class="text-decoration-none" href="${escapeAttr(website)}">${e.name}</a>
                 </h2>
-                <ul class="small mb-0 mt-2 ps-3">
-                  ${e.bullets.map((b) => `<li>${b}</li>`).join("")}
-                </ul>
+                <div class="small mt-2">
+                  <p class="mb-0">${escapeAttr(summaryText)}</p>
+                </div>
               </div>
             </div>
           </div>

@@ -3,11 +3,7 @@
     "name": "Democratic Club of Amelia Island (DCAI)",
     "cat": "party",
     "location": "Fernandina Beach (Amelia Island), FL",
-    "bullets": [
-      "Local membership club connecting and engaging Democrats and like-minded residents",
-      "Serves Amelia Island and Fernandina Beach; hosts regular meetings and community events",
-      "Affiliated local Democratic club listed by Nassau County Democratic Party"
-    ],
+    "summary": "Local Democratic membership club for Amelia Island and Fernandina Beach that hosts regular meetings and community events and is affiliated with the Nassau County Democratic Party.",
     "keywords": "democratic club of amelia island DCAI amelia island fernandina beach nassau county florida democrats club meetings events",
     "logo": "static/images/democratic-club-of-amelia-island.jpg",
     "website": "https://www.ameliadems.org/"
@@ -16,11 +12,7 @@
     "name": "Disco Witch Brewing",
     "cat": "biz",
     "location": "464073 State Road 200, Ste 7, Yulee, FL 32097",
-    "bullets": [
-      "Brewery/taproom in Yulee with in-house beer plus rotating offerings",
-      "On-site kitchen (kitchen typically closes before taproom); check event schedule for hour changes",
-      "Hosts events and community nights; taproom-focused atmosphere"
-    ],
+    "summary": "Yulee brewery and taproom pouring in-house beers and rotating offerings with an on-site kitchen (hours vary) plus events and community nights in a taproom-focused setting.",
     "keywords": "disco witch brewing yulee fl brewery taproom 464073 state road 200 ste 7 32097 events kitchen hours",
     "logo": "static/images/disco-witch-brewing.jpg",
     "website": "https://discowitchbrewing.com/"
@@ -29,11 +21,7 @@
     "name": "First Love Brewing",
     "cat": "biz",
     "location": "22 S 8th St, Ste 5, Fernandina Beach, FL 32034",
-    "bullets": [
-      "Brewpub featuring house craft beer and a full food menu",
-      "Known for specialty pizzas plus rotating taproom dishes",
-      "Downtown Fernandina Beach location"
-    ],
+    "summary": "Downtown Fernandina Beach brewpub serving house craft beer alongside a full menu with specialty pizzas and rotating taproom dishes.",
     "keywords": "first love brewing fernandina beach fl brewpub craft beer specialty pizzas 22 s 8th st ste 5 32034",
     "logo": "static/images/first-love-brewing.webp",
     "website": "https://firstlovebrewing.com/"
@@ -42,11 +30,7 @@
     "name": "Keep Nassau Beautiful",
     "cat": "svc",
     "location": "Nassau County, FL",
-    "bullets": [
-      "Countywide nonprofit focused on clean, green public spaces through volunteer action",
-      "Runs cleanup/beautification and environmental programs (e.g., Wild Amelia, Refill Nassau FL, tree/planting initiatives)",
-      "Offers ways to volunteer, report littering, and support local stewardship"
-    ],
+    "summary": "Countywide nonprofit focused on cleaner, greener public spaces through volunteer cleanup and beautification programs like Wild Amelia, Refill Nassau FL, and tree and planting initiatives, offering ways to volunteer and report litter.",
     "keywords": "keep nassau beautiful nassau county florida volunteer cleanups beautification litter debris wild amelia refill nassau planting",
     "logo": "static/images/keep-nassau-beautiful.png",
     "website": "https://keepnassaubeautiful.org/"
@@ -55,11 +39,7 @@
     "name": "Nassau Community Voices Coalition",
     "cat": "party",
     "location": "Nassau County, FL",
-    "bullets": [
-      "Community-focused coalition that organizes recurring meetings and engagement events",
-      "Listed/organized through Nassau County Democratic Party event channels",
-      "Emphasizes local participation, outreach, and discussion of community issues"
-    ],
+    "summary": "Community coalition that meets regularly through local Democratic channels to organize engagement events and encourage participation, outreach, and discussion of community issues.",
     "keywords": "nassau community voices coalition nassau county florida meetings civic engagement outreach democratic party",
     "logo": "static/images/nassau-community-voices-coalition.png",
     "website": "https://www.facebook.com/groups/nassaucommunityvoices"
@@ -68,11 +48,7 @@
     "name": "Nassau County Democratic Black Caucus",
     "cat": "party",
     "location": "Nassau County, FL",
-    "bullets": [
-      "Local Black caucus aligned with broader Democratic Black Caucus organizing in Florida",
-      "Supports voter engagement efforts (education forums, registration, GOTV, vote-by-mail assistance)",
-      "Holds recurring meetings open to interested community members"
-    ],
+    "summary": "Local Democratic Black Caucus chapter supporting voter engagement through education forums, registration, GOTV, and vote-by-mail assistance, while hosting recurring meetings open to the community.",
     "keywords": "nassau county democratic black caucus florida black democrats voter registration gotv vote by mail meetings",
     "logo": "static/images/nassau-county-democratic-black-caucus.png",
     "website": "https://www.dbcflorida.org/"
@@ -81,11 +57,7 @@
     "name": "Nassau County Democratic Executive Committee (DEC)",
     "cat": "party",
     "location": "Nassau County, FL",
-    "bullets": [
-      "County party governing body supporting and electing Democrats in local, state, and federal races",
-      "Organizes volunteer opportunities, meetings, and local party operations",
-      "Provides voter resources and coordination across county precincts"
-    ],
+    "summary": "County Democratic Executive Committee that governs local party operations, coordinates volunteers and meetings, and provides voter resources to elect Democrats across county precincts.",
     "keywords": "nassau county democratic executive committee DEC nassau county florida precinct organization party governance volunteer meetings voter resources",
     "logo": "static/images/nassau-county-dec.png",
     "website": "https://www.nassaudems.org/"
@@ -94,11 +66,7 @@
     "name": "Nassau County Democratic Party",
     "cat": "party",
     "location": "Nassau County, FL",
-    "bullets": [
-      "Official county Democratic Party organization for Nassau County, Florida",
-      "Focuses on electing Democrats and advancing Democratic values and positions",
-      "Coordinates volunteer events, voter resources, and local engagement"
-    ],
+    "summary": "Official Nassau County Democratic Party organization focused on electing Democrats, advancing party values, and coordinating volunteer events and voter resources.",
     "keywords": "nassau county democratic party florida nassau dems elect democrats volunteer events voter resources",
     "logo": "static/images/nassau-county-democrats.webp",
     "website": "https://www.nassaudems.org/"
@@ -107,11 +75,7 @@
     "name": "Northeast Florida Astronomical Society",
     "cat": "svc",
     "location": "Northeast Florida",
-    "bullets": [
-      "Amateur astronomy organization providing public education and observing opportunities",
-      "Hosts public stargazing/star parties (including recurring events at Kathryn Abbey Hanna Park)",
-      "Shares schedules, announcements, and resources via website and member community"
-    ],
+    "summary": "Amateur astronomy organization serving Northeast Florida that offers public education and observing opportunities, hosts star parties such as at Kathryn Abbey Hanna Park, and shares schedules and resources online.",
     "keywords": "northeast florida astronomical society NEFAS amateur astronomers public stargazing star parties hanna park",
     "logo": "static/images/north-east-florida-astronomical-society.png",
     "website": "https://nefas.org/"
@@ -120,11 +84,7 @@
     "name": "Sierra Club",
     "cat": "ind",
     "location": "Nassau County, FL",
-    "bullets": [
-      "Local Sierra Club community focused on conservation and environmental advocacy",
-      "Organizes outings, environmental programs, and community actions",
-      "Connects residents to Florida Sierra Club campaigns and local issues"
-    ],
+    "summary": "Local Sierra Club community focused on conservation and environmental advocacy, organizing outings, environmental programs, and connections to Florida Sierra Club campaigns.",
     "keywords": "sierra club nassau county florida environmental advocacy conservation outings programs community action",
     "logo": "static/images/nassau-county-sierra-club.jpg",
     "website": "https://www.facebook.com/SierraClubNassauCounty"
@@ -133,11 +93,7 @@
     "name": "Story & Song Bookstore Bistro",
     "cat": "biz",
     "location": "1430 Park Ave, Fernandina Beach, FL 32034",
-    "bullets": [
-      "Bookstore + arts/culture venue with an on-site bistro",
-      "Brunch/lunch service; coffee and desserts, with wine/beer offerings",
-      "Bistro hours typically daytime (Mon–Sat 10–2; Sun 11–2—verify for changes)"
-    ],
+    "summary": "Bookstore and arts venue with an on-site bistro offering brunch and lunch, coffee and desserts, plus wine and beer, alongside cultural programming at 1430 Park Ave in Fernandina Beach (verify current hours).",
     "keywords": "story and song bookstore bistro fernandina beach 1430 park ave 32034 brunch lunch coffee desserts wine beer",
     "logo": "static/images/story-and-song-bookstore-bistro.webp",
     "website": "https://storyandsongarts.org/bistro/"
@@ -146,11 +102,7 @@
     "name": "Take Stock in Children Nassau",
     "cat": "svc",
     "location": "516 S 10th St, Ste 119, Fernandina Beach, FL 32034",
-    "bullets": [
-      "Local nonprofit serving Nassau County students with long-term mentoring and college readiness",
-      "Targets low-income youth; mentors support students through middle/high school",
-      "Scholarship-focused model supporting postsecondary success"
-    ],
+    "summary": "Local nonprofit serving Nassau County students with long-term mentoring and college-readiness support for low-income youth, pairing mentors through middle and high school with a scholarship-focused model.",
     "keywords": "take stock in children nassau county florida mentoring college readiness scholarship 516 s 10th st ste 119 fernandina beach 32034",
     "logo": "static/images/nassau-county-take-stock-in-children.png",
     "website": "https://tsicnassau.org/"
@@ -159,11 +111,7 @@
     "name": "Unified Nassau Florida",
     "cat": "ind",
     "location": "Nassau County, FL",
-    "bullets": [
-      "Nonpartisan, action-oriented civic group (Indivisible-aligned) focused on protecting democracy",
-      "Organizes civic education, community support, and volunteer actions (including peaceful protests and voter support)",
-      "Runs events/trainings and publishes local organizing updates"
-    ],
+    "summary": "Nonpartisan, Indivisible-aligned civic group focused on protecting democracy through civic education, community support, volunteer actions including peaceful protests and voter assistance, and regular trainings and updates.",
     "keywords": "unified nassau florida nonpartisan indivisible civic education voter support peaceful protests community action",
     "logo": "static/images/unified-nassau-florida.webp",
     "website": "https://www.unifiednassauflorida.org/"
@@ -172,11 +120,7 @@
     "name": "Westside Democrats of Nassau County",
     "cat": "party",
     "location": "Callahan / West Nassau County, FL",
-    "bullets": [
-      "Democratic club serving western Nassau County communities (e.g., Callahan, Hilliard, Bryceville area)",
-      "Promotes democracy and Democratic values through local outreach and engagement",
-      "Holds regular monthly meetings and supports voter/organizing activities"
-    ],
+    "summary": "Democratic club for western Nassau County communities such as Callahan, Hilliard, and Bryceville, promoting Democratic values through outreach, monthly meetings, and voter organizing.",
     "keywords": "westside democrats nassau county florida callahan hilliard bryceville democratic club monthly meeting outreach voter organizing",
     "logo": "static/images/nassau-county-westside-democrats.webp",
     "website": "https://www.facebook.com/nassaudec"
