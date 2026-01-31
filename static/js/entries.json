@@ -144,12 +144,39 @@
     "website": "http://noethanolfernandina.com/"
   },
   {
-    "name": "Nassau County Public Library",
+    "name": "Nassau County Public Library System",
     "cat": "svc",
     "location": "Nassau County, FL",
     "summary": "The countywide public library system serving Nassau County communities including Fernandina Beach, Yulee, Callahan, Hilliard, and Bryceville. It provides lending, programs, and access to shared digital resources across branches.",
     "keywords": "nassau county public library system nassau reads libraries fernandina beach yulee callahan hilliard bryceville books programs digital resources",
     "logo": "static/images/nassau-county-public-library-system.png",
     "website": "https://nassaureads.com/locations/"
+  },
+  {
+    "name": "Nassau Humane Society",
+    "cat": "svc",
+    "location": "639 Airport Road, Fernandina Beach, FL 32034",
+    "summary": "A nonprofit animal shelter and adoption center serving Nassau County. It provides rescue, foster and adoption programs, plus spay/neuter support including help for community cats.",
+    "keywords": "nassau humane society fernandina beach fl 639 airport road animal shelter adoption foster spay neuter community cats",
+    "logo": "static/images/nassau-humane-society.png",
+    "website": "https://nassauhumane.org/"
+  },
+  {
+    "name": "Amelia Community Theatre (ACT)",
+    "cat": "biz",
+    "location": "207 & 209 Cedar Street, Fernandina Beach, FL 32034",
+    "summary": "A nonprofit community theater in Fernandina Beach producing live performances and special events. It offers opportunities for participation and arts education through auditions, volunteering, and programs.",
+    "keywords": "amelia community theatre ACT fernandina beach fl 209 cedar street live theatre performances auditions volunteering education",
+    "logo": "static/images/amelia-community-theatre.png",
+    "website": "https://www.ameliacommunitytheatre.org/"
+  },
+  {
+    "name": "Cats Angels Inc & Thrift Store",
+    "cat": "biz",
+    "location": "709 S 8th Street, Fernandina Beach, FL 32034",
+    "summary": "A Fernandina Beach cat rescue and adoption organization that also operates a thrift store to support its mission. It helps homeless cats through adoption services and spay/neuter and community cat initiatives.",
+    "keywords": "cats angels inc thrift store 709 s 8th street fernandina beach fl cat rescue adoption spay neuter TNVR",
+    "logo": "static/images/cats-angels-inc.png",
+    "website": "https://catsangels.org/"
   }
 ]
