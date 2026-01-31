@@ -142,5 +142,14 @@
     "keywords": "no ethanol fernandina amelia island ethanol plant opposition environmental advocacy community group",
     "logo": "static/images/no-ethanol-fernandina.jpg",
     "website": "http://noethanolfernandina.com/"
+  },
+  {
+    "name": "Nassau County Public Library",
+    "cat": "svc",
+    "location": "Nassau County, FL",
+    "summary": "The countywide public library system serving Nassau County communities including Fernandina Beach, Yulee, Callahan, Hilliard, and Bryceville. It provides lending, programs, and access to shared digital resources across branches.",
+    "keywords": "nassau county public library system nassau reads libraries fernandina beach yulee callahan hilliard bryceville books programs digital resources",
+    "logo": "static/images/nassau-county-public-library-system.png",
+    "website": "https://nassaureads.com/locations/"
   }
 ]
