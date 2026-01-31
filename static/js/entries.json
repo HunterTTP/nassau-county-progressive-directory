@@ -3,7 +3,7 @@
     "name": "Democratic Club of Amelia Island (DCAI)",
     "cat": "party",
     "location": "Fernandina Beach (Amelia Island), FL",
-    "summary": "Local Democratic membership club for Amelia Island and Fernandina Beach that hosts regular meetings and community events and is affiliated with the Nassau County Democratic Party.",
+    "summary": "A local Democratic membership organization serving Amelia Island and Fernandina Beach. It hosts regular meetings and events to educate, organize, and mobilize Democrats in coordination with the Nassau County Democratic Party.",
     "keywords": "democratic club of amelia island DCAI amelia island fernandina beach nassau county florida democrats club meetings events",
     "logo": "static/images/democratic-club-of-amelia-island.jpg",
     "website": "https://www.ameliadems.org/"
@@ -12,7 +12,7 @@
     "name": "Disco Witch Brewing",
     "cat": "biz",
     "location": "464073 State Road 200, Ste 7, Yulee, FL 32097",
-    "summary": "Yulee brewery and taproom pouring in-house beers and rotating offerings with an on-site kitchen (hours vary) plus events and community nights in a taproom-focused setting.",
+    "summary": "An independent brewery and taproom in Yulee offering house-brewed beer and rotating styles. The space hosts frequent community events such as trivia, live music, and themed nights, with an on-site kitchen operating limited hours.",
     "keywords": "disco witch brewing yulee fl brewery taproom 464073 state road 200 ste 7 32097 events kitchen hours",
     "logo": "static/images/disco-witch-brewing.jpg",
     "website": "https://discowitchbrewing.com/"
@@ -21,7 +21,7 @@
     "name": "First Love Brewing",
     "cat": "biz",
     "location": "22 S 8th St, Ste 5, Fernandina Beach, FL 32034",
-    "summary": "Downtown Fernandina Beach brewpub serving house craft beer alongside a full menu with specialty pizzas and rotating taproom dishes.",
+    "summary": "A locally owned downtown Fernandina Beach brewpub producing small-batch craft beer. It pairs its beer with a full food menu, including specialty pizzas, in a casual neighborhood taproom setting.",
     "keywords": "first love brewing fernandina beach fl brewpub craft beer specialty pizzas 22 s 8th st ste 5 32034",
     "logo": "static/images/first-love-brewing.webp",
     "website": "https://firstlovebrewing.com/"
@@ -30,7 +30,7 @@
     "name": "Keep Nassau Beautiful",
     "cat": "svc",
     "location": "Nassau County, FL",
-    "summary": "Countywide nonprofit focused on cleaner, greener public spaces through volunteer cleanup and beautification programs like Wild Amelia, Refill Nassau FL, and tree and planting initiatives, offering ways to volunteer and report litter.",
+    "summary": "A countywide environmental nonprofit dedicated to litter prevention, cleanup, and beautification. It coordinates volunteer programs, community cleanups, and education initiatives to improve Nassau County’s public spaces.",
     "keywords": "keep nassau beautiful nassau county florida volunteer cleanups beautification litter debris wild amelia refill nassau planting",
     "logo": "static/images/keep-nassau-beautiful.png",
     "website": "https://keepnassaubeautiful.org/"
@@ -39,7 +39,7 @@
     "name": "Nassau Community Voices Coalition",
     "cat": "party",
     "location": "Nassau County, FL",
-    "summary": "Community coalition that meets regularly through local Democratic channels to organize engagement events and encourage participation, outreach, and discussion of community issues.",
+    "summary": "A community-based coalition focused on civic engagement and local issue advocacy in Nassau County. The group meets regularly and organizes outreach, discussion, and action around community concerns.",
     "keywords": "nassau community voices coalition nassau county florida meetings civic engagement outreach democratic party",
     "logo": "static/images/nassau-community-voices-coalition.png",
     "website": "https://www.facebook.com/groups/nassaucommunityvoices"
@@ -48,7 +48,7 @@
     "name": "Nassau County Democratic Black Caucus",
     "cat": "party",
     "location": "Nassau County, FL",
-    "summary": "Local Democratic Black Caucus chapter supporting voter engagement through education forums, registration, GOTV, and vote-by-mail assistance, while hosting recurring meetings open to the community.",
+    "summary": "A local chapter of the Democratic Black Caucus of Florida serving Nassau County. It focuses on voter education, registration, vote-by-mail assistance, and turnout efforts through meetings and community outreach.",
     "keywords": "nassau county democratic black caucus florida black democrats voter registration gotv vote by mail meetings",
     "logo": "static/images/nassau-county-democratic-black-caucus.png",
     "website": "https://www.dbcflorida.org/"
@@ -57,7 +57,7 @@
     "name": "Nassau County Democratic Executive Committee (DEC)",
     "cat": "party",
     "location": "Nassau County, FL",
-    "summary": "County Democratic Executive Committee that governs local party operations, coordinates volunteers and meetings, and provides voter resources to elect Democrats across county precincts.",
+    "summary": "The governing body of the Democratic Party in Nassau County. It oversees party operations, precinct organization, volunteer coordination, and voter engagement in local elections.",
     "keywords": "nassau county democratic executive committee DEC nassau county florida precinct organization party governance volunteer meetings voter resources",
     "logo": "static/images/nassau-county-dec.png",
     "website": "https://www.nassaudems.org/"
@@ -66,7 +66,7 @@
     "name": "Nassau County Democratic Party",
     "cat": "party",
     "location": "Nassau County, FL",
-    "summary": "Official Nassau County Democratic Party organization focused on electing Democrats, advancing party values, and coordinating volunteer events and voter resources.",
+    "summary": "The official county-level Democratic organization working to elect Democratic candidates and advance party values. It coordinates campaigns, events, volunteers, and voter resources across Nassau County.",
     "keywords": "nassau county democratic party florida nassau dems elect democrats volunteer events voter resources",
     "logo": "static/images/nassau-county-democrats.webp",
     "website": "https://www.nassaudems.org/"
@@ -75,7 +75,7 @@
     "name": "Northeast Florida Astronomical Society",
     "cat": "svc",
     "location": "Northeast Florida",
-    "summary": "Amateur astronomy organization serving Northeast Florida that offers public education and observing opportunities, hosts star parties such as at Kathryn Abbey Hanna Park, and shares schedules and resources online.",
+    "summary": "A nonprofit organization of amateur astronomers serving Northeast Florida. It promotes astronomy education through public observing events, star parties, and shared resources for the community.",
     "keywords": "northeast florida astronomical society NEFAS amateur astronomers public stargazing star parties hanna park",
     "logo": "static/images/north-east-florida-astronomical-society.png",
     "website": "https://nefas.org/"
@@ -84,7 +84,7 @@
     "name": "Sierra Club",
     "cat": "ind",
     "location": "Nassau County, FL",
-    "summary": "Local Sierra Club community focused on conservation and environmental advocacy, organizing outings, environmental programs, and connections to Florida Sierra Club campaigns.",
+    "summary": "A local Sierra Club group advocating for environmental protection and conservation in Nassau County. It connects residents to education, local environmental issues, and statewide Sierra Club initiatives.",
     "keywords": "sierra club nassau county florida environmental advocacy conservation outings programs community action",
     "logo": "static/images/nassau-county-sierra-club.jpg",
     "website": "https://www.facebook.com/SierraClubNassauCounty"
@@ -93,7 +93,7 @@
     "name": "Story & Song Bookstore Bistro",
     "cat": "biz",
     "location": "1430 Park Ave, Fernandina Beach, FL 32034",
-    "summary": "Bookstore and arts venue with an on-site bistro offering brunch and lunch, coffee and desserts, plus wine and beer, alongside cultural programming at 1430 Park Ave in Fernandina Beach (verify current hours).",
+    "summary": "An independent bookstore and community arts venue with an on-site bistro in Fernandina Beach. The space combines books, food, and cultural programming such as readings, talks, and community gatherings.",
     "keywords": "story and song bookstore bistro fernandina beach 1430 park ave 32034 brunch lunch coffee desserts wine beer",
     "logo": "static/images/story-and-song-bookstore-bistro.webp",
     "website": "https://storyandsongarts.org/bistro/"
@@ -102,7 +102,7 @@
     "name": "Take Stock in Children Nassau",
     "cat": "svc",
     "location": "516 S 10th St, Ste 119, Fernandina Beach, FL 32034",
-    "summary": "Local nonprofit serving Nassau County students with long-term mentoring and college-readiness support for low-income youth, pairing mentors through middle and high school with a scholarship-focused model.",
+    "summary": "A nonprofit serving Nassau County students through long-term mentoring and college readiness support. The program helps qualifying low-income students earn scholarships by meeting academic and behavioral milestones.",
     "keywords": "take stock in children nassau county florida mentoring college readiness scholarship 516 s 10th st ste 119 fernandina beach 32034",
     "logo": "static/images/nassau-county-take-stock-in-children.png",
     "website": "https://tsicnassau.org/"
@@ -111,7 +111,7 @@
     "name": "Unified Nassau Florida",
     "cat": "ind",
     "location": "Nassau County, FL",
-    "summary": "Nonpartisan, Indivisible-aligned civic group focused on protecting democracy through civic education, community support, volunteer actions including peaceful protests and voter assistance, and regular trainings and updates.",
+    "summary": "A nonpartisan, Indivisible-aligned civic group focused on pro-democracy engagement. It organizes voter support, civic education, trainings, and peaceful community actions in Nassau County.",
     "keywords": "unified nassau florida nonpartisan indivisible civic education voter support peaceful protests community action",
     "logo": "static/images/unified-nassau-florida.webp",
     "website": "https://www.unifiednassauflorida.org/"
@@ -120,9 +120,27 @@
     "name": "Westside Democrats of Nassau County",
     "cat": "party",
     "location": "Callahan / West Nassau County, FL",
-    "summary": "Democratic club for western Nassau County communities such as Callahan, Hilliard, and Bryceville, promoting Democratic values through outreach, monthly meetings, and voter organizing.",
+    "summary": "A Democratic club serving western Nassau County communities such as Callahan, Hilliard, and Bryceville. It holds regular meetings and organizes outreach and voter engagement activities.",
     "keywords": "westside democrats nassau county florida callahan hilliard bryceville democratic club monthly meeting outreach voter organizing",
     "logo": "static/images/nassau-county-westside-democrats.webp",
     "website": "https://www.facebook.com/nassaudec"
+  },
+  {
+    "name": "Fernandina Beach Housing Authority",
+    "cat": "svc",
+    "location": "Fernandina Beach, FL",
+    "summary": "The public housing authority for the City of Fernandina Beach. It provides and manages affordable housing programs, including public housing and housing assistance, for eligible residents.",
+    "keywords": "fernandina beach housing authority public housing affordable housing nassau county florida housing assistance",
+    "logo": "static/images/fernandina-beach-housing-authority.png",
+    "website": "https://www.fernandinabeachha.org/"
+  },
+  {
+    "name": "No Ethanol Fernandina",
+    "cat": "ind",
+    "location": "Fernandina Beach, FL",
+    "summary": "A local citizen advocacy group opposing ethanol fuel production on Amelia Island. It focuses on environmental protection, public health concerns, and community awareness related to industrial development.",
+    "keywords": "no ethanol fernandina amelia island ethanol plant opposition environmental advocacy community group",
+    "logo": "static/images/no-ethanol-fernandina.jpg",
+    "website": "http://noethanolfernandina.com/"
   }
 ]
